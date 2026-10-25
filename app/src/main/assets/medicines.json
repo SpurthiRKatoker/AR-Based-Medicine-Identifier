@@ -1,0 +1,660 @@
+[
+  {
+    "id": "med-nlem-001",
+    "brandName": "Crocin",
+    "genericName": "Paracetamol",
+    "strength": "500 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "GlaxoSmithKline Pharmaceuticals Ltd",
+    "labelPurpose": "Relief of mild to moderate pain and reduction of fever.",
+    "labelDirections": "Take as directed by a healthcare professional or package label. Swallow whole with water.",
+    "warnings": [
+      "Do not exceed the stated dose.",
+      "Overdose may cause serious liver damage.",
+      "Do not take with other paracetamol-containing products."
+    ],
+    "commonSideEffects": [
+      "Allergic skin rash (rare)",
+      "Nausea"
+    ],
+    "sourceTitle": "National List of Essential Medicines (NLEM) 2022 / NHS UK Paracetamol Monograph",
+    "sourceUrl": "https://www.nhs.uk/medicines/paracetamol-for-adults/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Analgesic and antipyretic. Essential medicine."
+  },
+  {
+    "id": "med-nlem-002",
+    "brandName": "Dolo 650",
+    "genericName": "Paracetamol",
+    "strength": "650 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Micro Labs Ltd",
+    "labelPurpose": "Relief of fever, headache, body aches, and mild to moderate pain.",
+    "labelDirections": "Take as directed by a physician. Allow at least 4 to 6 hours between doses.",
+    "warnings": [
+      "Do not exceed 4 tablets in 24 hours.",
+      "Excessive intake can harm liver function.",
+      "Consult physician if fever persists longer than 3 days."
+    ],
+    "commonSideEffects": [
+      "Nausea",
+      "Allergic reaction (rare)"
+    ],
+    "sourceTitle": "National List of Essential Medicines (NLEM) 2022 / Central Drugs Standard Control Organization (CDSCO)",
+    "sourceUrl": "https://cdsco.gov.in/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Higher strength paracetamol formulation common in blister packaging."
+  },
+  {
+    "id": "med-nlem-003",
+    "brandName": "Cetzine",
+    "genericName": "Cetirizine Hydrochloride",
+    "strength": "10 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Dr. Reddy's Laboratories Ltd",
+    "labelPurpose": "Relief of symptoms associated with seasonal and perennial allergic rhinitis, and urticaria.",
+    "labelDirections": "Take one tablet once daily with water, with or without food.",
+    "warnings": [
+      "May cause drowsiness; avoid driving or operating machinery if affected.",
+      "Avoid alcohol while taking this medicine.",
+      "Consult doctor before use in kidney impairment."
+    ],
+    "commonSideEffects": [
+      "Drowsiness",
+      "Dry mouth",
+      "Headache",
+      "Fatigue"
+    ],
+    "sourceTitle": "NHS UK Cetirizine Information / NLEM 2022",
+    "sourceUrl": "https://www.nhs.uk/medicines/cetirizine/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Second-generation antihistamine."
+  },
+  {
+    "id": "med-nlem-004",
+    "brandName": "Brufen",
+    "genericName": "Ibuprofen",
+    "strength": "400 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Abbott India Ltd",
+    "labelPurpose": "Relief of pain and inflammation in conditions such as arthritis, dental pain, and muscular aches.",
+    "labelDirections": "Take with or immediately after food to reduce stomach irritation.",
+    "warnings": [
+      "Do not take if you have a history of stomach ulcer or gastrointestinal bleeding.",
+      "Use lowest effective dose for shortest necessary duration.",
+      "Not recommended during the third trimester of pregnancy."
+    ],
+    "commonSideEffects": [
+      "Indigestion",
+      "Stomach pain",
+      "Nausea",
+      "Dizziness"
+    ],
+    "sourceTitle": "NHS UK Ibuprofen Monograph / NLEM 2022",
+    "sourceUrl": "https://www.nhs.uk/medicines/ibuprofen-for-adults/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Non-steroidal anti-inflammatory drug (NSAID)."
+  },
+  {
+    "id": "med-nlem-005",
+    "brandName": "Novamox",
+    "genericName": "Amoxicillin",
+    "strength": "500 mg",
+    "dosageForm": "Capsule",
+    "manufacturer": "Cipla Ltd",
+    "labelPurpose": "Treatment of bacterial infections including respiratory tract, ear, and urinary tract infections.",
+    "labelDirections": "Space doses evenly throughout the day. Complete the prescribed course even if feeling better.",
+    "warnings": [
+      "Do not use if allergic to penicillin or beta-lactam antibiotics.",
+      "Complete the entire course to prevent antimicrobial resistance.",
+      "Seek medical advice if severe watery diarrhea occurs."
+    ],
+    "commonSideEffects": [
+      "Nausea",
+      "Diarrhea",
+      "Skin rash"
+    ],
+    "sourceTitle": "WHO Model List of Essential Medicines / NHS UK Amoxicillin",
+    "sourceUrl": "https://www.nhs.uk/medicines/amoxicillin/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Broad-spectrum penicillin antibiotic."
+  },
+  {
+    "id": "med-nlem-006",
+    "brandName": "Pan 40",
+    "genericName": "Pantoprazole",
+    "strength": "40 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Alkem Laboratories Ltd",
+    "labelPurpose": "Treatment of gastroesophageal reflux disease (GERD) and gastric acid-related conditions.",
+    "labelDirections": "Swallow whole with water approximately 30 to 60 minutes before breakfast. Do not crush or chew.",
+    "warnings": [
+      "Do not crush or chew the enteric-coated tablet.",
+      "Long-term use may reduce magnesium or vitamin B12 absorption.",
+      "Inform doctor if symptoms persist after 2 weeks."
+    ],
+    "commonSideEffects": [
+      "Headache",
+      "Diarrhea",
+      "Abdominal pain",
+      "Flatulence"
+    ],
+    "sourceTitle": "DailyMed FDA Pantoprazole Label / NLEM 2022",
+    "sourceUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22154dbb-d8cb-4cfc-b844-325db1973ef0",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Proton pump inhibitor (PPI)."
+  },
+  {
+    "id": "med-nlem-007",
+    "brandName": "Omez",
+    "genericName": "Omeprazole",
+    "strength": "20 mg",
+    "dosageForm": "Capsule",
+    "manufacturer": "Dr. Reddy's Laboratories Ltd",
+    "labelPurpose": "Reduction of stomach acid in conditions including heartburn, acid reflux, and peptic ulcers.",
+    "labelDirections": "Take once daily in the morning before food. Swallow capsule whole.",
+    "warnings": [
+      "Do not open or crush the granules inside the capsule.",
+      "May mask symptoms of more serious gastrointestinal conditions."
+    ],
+    "commonSideEffects": [
+      "Nausea",
+      "Headache",
+      "Constipation",
+      "Stomach ache"
+    ],
+    "sourceTitle": "NHS UK Omeprazole Monograph / NLEM 2022",
+    "sourceUrl": "https://www.nhs.uk/medicines/omeprazole/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Proton pump inhibitor."
+  },
+  {
+    "id": "med-nlem-008",
+    "brandName": "Azithral",
+    "genericName": "Azithromycin",
+    "strength": "500 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Alembic Pharmaceuticals Ltd",
+    "labelPurpose": "Treatment of susceptible bacterial infections including respiratory tract, skin, and genital infections.",
+    "labelDirections": "Take once daily at the same time each day with or without food. Complete the full prescribed course.",
+    "warnings": [
+      "Take exactly as prescribed; do not skip doses.",
+      "Inform physician if experiencing heart rhythm changes or severe dizziness.",
+      "Antacids containing aluminum or magnesium should not be taken simultaneously."
+    ],
+    "commonSideEffects": [
+      "Nausea",
+      "Vomiting",
+      "Diarrhea",
+      "Abdominal cramps"
+    ],
+    "sourceTitle": "WHO Model Formulary / DailyMed FDA Azithromycin",
+    "sourceUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=07fafe2f-f421-4d37-8f78-fb86111f185c",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Macrolide antibiotic. Essential medicine."
+  },
+  {
+    "id": "med-nlem-009",
+    "brandName": "Glycomet",
+    "genericName": "Metformin Hydrochloride",
+    "strength": "500 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "USV Pvt Ltd",
+    "labelPurpose": "Management of type 2 diabetes mellitus to help improve glycemic control.",
+    "labelDirections": "Take with meals to reduce gastrointestinal side effects. Swallow whole with water.",
+    "warnings": [
+      "Rare risk of lactic acidosis; avoid excessive alcohol intake.",
+      "Inform physician prior to procedures requiring iodinated radiocontrast dyes.",
+      "Requires monitoring of renal function."
+    ],
+    "commonSideEffects": [
+      "Nausea",
+      "Diarrhea",
+      "Abdominal discomfort",
+      "Metallic taste in mouth"
+    ],
+    "sourceTitle": "NHS UK Metformin Monograph / NLEM 2022",
+    "sourceUrl": "https://www.nhs.uk/medicines/metformin/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Biguanide antihyperglycemic agent."
+  },
+  {
+    "id": "med-nlem-010",
+    "brandName": "Amlong",
+    "genericName": "Amlodipine Besylate",
+    "strength": "5 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Micro Labs Ltd",
+    "labelPurpose": "Treatment of hypertension (high blood pressure) and angina pectoris (chest pain).",
+    "labelDirections": "Take once daily, at the same time each day, with or without food.",
+    "warnings": [
+      "Do not stop taking this medication abruptly without consulting your physician.",
+      "May cause peripheral edema (swelling of ankles).",
+      "Avoid grapefruit and grapefruit juice while taking amlodipine."
+    ],
+    "commonSideEffects": [
+      "Ankle swelling",
+      "Flushing",
+      "Dizziness",
+      "Palpitations"
+    ],
+    "sourceTitle": "NHS UK Amlodipine Monograph / NLEM 2022",
+    "sourceUrl": "https://www.nhs.uk/medicines/amlodipine/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Dihydropyridine calcium channel blocker."
+  },
+  {
+    "id": "med-nlem-011",
+    "brandName": "Atorva",
+    "genericName": "Atorvastatin Calcium",
+    "strength": "10 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Zydus Healthcare Ltd",
+    "labelPurpose": "Lowering cholesterol and reducing the risk of cardiovascular events.",
+    "labelDirections": "Take once daily, usually in the evening, with or without food.",
+    "warnings": [
+      "Report unexplained muscle pain, tenderness, or weakness to your doctor immediately.",
+      "Avoid excessive alcohol and large quantities of grapefruit juice.",
+      "Not recommended during pregnancy or breastfeeding."
+    ],
+    "commonSideEffects": [
+      "Muscle aches",
+      "Digestive discomfort",
+      "Headache",
+      "Nosebleeds"
+    ],
+    "sourceTitle": "NHS UK Atorvastatin Monograph / NLEM 2022",
+    "sourceUrl": "https://www.nhs.uk/medicines/atorvastatin/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "HMG-CoA reductase inhibitor (statin)."
+  },
+  {
+    "id": "med-nlem-012",
+    "brandName": "Atorva 20",
+    "genericName": "Atorvastatin Calcium",
+    "strength": "20 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Zydus Healthcare Ltd",
+    "labelPurpose": "Lowering blood cholesterol and reducing cardiovascular risk in higher-risk patients.",
+    "labelDirections": "Take once daily in the evening with water. Swallow tablet whole.",
+    "warnings": [
+      "Promptly report severe or unexplained muscle weakness or dark-colored urine.",
+      "Periodic liver function tests may be recommended by your doctor."
+    ],
+    "commonSideEffects": [
+      "Myalgia (muscle ache)",
+      "Nausea",
+      "Joint pain"
+    ],
+    "sourceTitle": "DailyMed FDA Atorvastatin Label / NLEM 2022",
+    "sourceUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2f48ef53-9366-4e55-905e-855c82eb0041",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Higher strength statin formulation."
+  },
+  {
+    "id": "med-nlem-013",
+    "brandName": "Ciplox",
+    "genericName": "Ciprofloxacin Hydrochloride",
+    "strength": "500 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Cipla Ltd",
+    "labelPurpose": "Treatment of confirmed bacterial infections of the urinary tract, gastrointestinal tract, and chest.",
+    "labelDirections": "Take with plenty of water. Do not take with dairy products or antacids alone.",
+    "warnings": [
+      "Associated with risk of tendonitis and tendon rupture; stop if tendon pain occurs.",
+      "May increase sensitivity to sunlight; avoid prolonged sun exposure.",
+      "Do not take with calcium-fortified beverages or iron supplements simultaneously."
+    ],
+    "commonSideEffects": [
+      "Nausea",
+      "Diarrhea",
+      "Headache",
+      "Sleep disturbances"
+    ],
+    "sourceTitle": "NHS UK Ciprofloxacin / WHO EML 2023",
+    "sourceUrl": "https://www.nhs.uk/medicines/ciprofloxacin/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Fluoroquinolone antibiotic."
+  },
+  {
+    "id": "med-nlem-014",
+    "brandName": "Voveran",
+    "genericName": "Diclofenac Sodium",
+    "strength": "50 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Novartis India Ltd",
+    "labelPurpose": "Short-term relief of pain and inflammation in joints, muscles, and post-traumatic conditions.",
+    "labelDirections": "Take with or after food. Swallow whole; do not break, chew, or crush.",
+    "warnings": [
+      "Risk of gastrointestinal irritation and bleeding with prolonged use.",
+      "Use caution in patients with cardiovascular or renal disease.",
+      "Do not combine with other NSAIDs without medical supervision."
+    ],
+    "commonSideEffects": [
+      "Stomach upset",
+      "Nausea",
+      "Dizziness",
+      "Headache"
+    ],
+    "sourceTitle": "DailyMed FDA Diclofenac Sodium / NLEM 2022",
+    "sourceUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a00e57ba-a841-450f-90db-33d3c8736a43",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Potent non-steroidal anti-inflammatory drug."
+  },
+  {
+    "id": "med-nlem-015",
+    "brandName": "Vomitop",
+    "genericName": "Domperidone",
+    "strength": "10 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Ipca Laboratories Ltd",
+    "labelPurpose": "Relief of nausea, vomiting, and feelings of fullness or bloating.",
+    "labelDirections": "Take approximately 15 to 30 minutes before meals. Use the lowest effective dose for the shortest duration.",
+    "warnings": [
+      "Do not exceed recommended dose or treatment duration of 7 days.",
+      "Consult physician if experiencing irregular heartbeat.",
+      "Contraindicated in severe hepatic impairment."
+    ],
+    "commonSideEffects": [
+      "Dry mouth",
+      "Mild headache",
+      "Drowsiness (rare)"
+    ],
+    "sourceTitle": "NHS UK Domperidone Monograph / CDSCO Safety Warnings",
+    "sourceUrl": "https://www.nhs.uk/medicines/domperidone/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Dopamine antagonist antiemetic."
+  },
+  {
+    "id": "med-nlem-016",
+    "brandName": "Flagyl",
+    "genericName": "Metronidazole",
+    "strength": "400 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Sanofi India Ltd",
+    "labelPurpose": "Treatment of anaerobic bacterial and parasitic infections including amoebiasis and giardiasis.",
+    "labelDirections": "Swallow whole with a glass of water, with or after food. Complete the full prescribed course.",
+    "warnings": [
+      "Strictly avoid alcohol during treatment and for at least 48 hours after the last dose.",
+      "May cause severe disulfiram-like reaction (nausea, flushing) with alcohol.",
+      "May impart a harmless dark or reddish-brown color to urine."
+    ],
+    "commonSideEffects": [
+      "Unpleasant metallic taste",
+      "Nausea",
+      "Stomach cramps",
+      "Loss of appetite"
+    ],
+    "sourceTitle": "NHS UK Metronidazole Monograph / WHO Model Formulary",
+    "sourceUrl": "https://www.nhs.uk/medicines/metronidazole/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Antiprotozoal and antibacterial agent."
+  },
+  {
+    "id": "med-nlem-017",
+    "brandName": "Zentel",
+    "genericName": "Albendazole",
+    "strength": "400 mg",
+    "dosageForm": "Chewable Tablet",
+    "manufacturer": "GlaxoSmithKline Pharmaceuticals Ltd",
+    "labelPurpose": "Treatment of intestinal parasitic worm infestations.",
+    "labelDirections": "Chew or crush the tablet and swallow with water, preferably with food.",
+    "warnings": [
+      "Not recommended during pregnancy without strict physician advice.",
+      "Consult doctor if symptoms do not improve after 2 to 3 weeks.",
+      "Follow deworming instructions carefully."
+    ],
+    "commonSideEffects": [
+      "Abdominal pain",
+      "Nausea",
+      "Dizziness",
+      "Headache"
+    ],
+    "sourceTitle": "WHO Model List of Essential Medicines / DailyMed FDA Albendazole",
+    "sourceUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=09c48f88-46eb-45ae-9ea7-6dbd5b842918",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Broad-spectrum anthelmintic."
+  },
+  {
+    "id": "med-nlem-018",
+    "brandName": "Doxylab",
+    "genericName": "Doxycycline",
+    "strength": "100 mg",
+    "dosageForm": "Capsule",
+    "manufacturer": "Laborate Pharmaceuticals India Ltd",
+    "labelPurpose": "Treatment of a wide variety of bacterial infections, acne, and malaria prophylaxis.",
+    "labelDirections": "Swallow with a full glass of water while sitting or standing upright. Do not lie down for 30 minutes after taking.",
+    "warnings": [
+      "Must be taken upright with ample water to prevent esophageal irritation.",
+      "Causes skin sensitivity to ultraviolet light (sunburn).",
+      "Avoid taking within 2 hours of antacids, iron, or calcium products."
+    ],
+    "commonSideEffects": [
+      "Nausea",
+      "Heartburn",
+      "Vomiting",
+      "Sun sensitivity"
+    ],
+    "sourceTitle": "NHS UK Doxycycline Monograph / NLEM 2022",
+    "sourceUrl": "https://www.nhs.uk/medicines/doxycycline/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Tetracycline-class antibiotic."
+  },
+  {
+    "id": "med-nlem-019",
+    "brandName": "Losar",
+    "genericName": "Losartan Potassium",
+    "strength": "50 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Unichem Laboratories Ltd",
+    "labelPurpose": "Management of hypertension and kidney protection in diabetic patients.",
+    "labelDirections": "Take once daily with water, with or without food, at the same time each day.",
+    "warnings": [
+      "Do not take during pregnancy; may cause fetal injury.",
+      "May cause dizziness when standing up quickly from a sitting position.",
+      "Periodic monitoring of serum potassium may be required."
+    ],
+    "commonSideEffects": [
+      "Dizziness",
+      "Fatigue",
+      "Nasal congestion"
+    ],
+    "sourceTitle": "NHS UK Losartan Monograph / NLEM 2022",
+    "sourceUrl": "https://www.nhs.uk/medicines/losartan/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Angiotensin II receptor blocker (ARB)."
+  },
+  {
+    "id": "med-nlem-020",
+    "brandName": "Betaloc",
+    "genericName": "Metoprolol Tartrate",
+    "strength": "50 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "AstraZeneca Pharma India Ltd",
+    "labelPurpose": "Treatment of hypertension, angina, and maintenance after myocardial infarction.",
+    "labelDirections": "Take with or immediately following a meal. Swallow whole with water.",
+    "warnings": [
+      "Do not discontinue abruptly; sudden cessation can worsen angina.",
+      "Use with caution in asthma or severe respiratory diseases.",
+      "May mask warning signs of low blood sugar in diabetic patients."
+    ],
+    "commonSideEffects": [
+      "Tiredness",
+      "Dizziness",
+      "Cold hands and feet",
+      "Slow heartbeat"
+    ],
+    "sourceTitle": "NHS UK Metoprolol / NLEM 2022",
+    "sourceUrl": "https://www.nhs.uk/medicines/metoprolol/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Beta-1 selective adrenergic receptor blocker."
+  },
+  {
+    "id": "med-nlem-021",
+    "brandName": "Asthalin",
+    "genericName": "Salbutamol Sulfate",
+    "strength": "4 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Cipla Ltd",
+    "labelPurpose": "Relief of bronchospasm in bronchial asthma and chronic bronchitis.",
+    "labelDirections": "Take as directed by your physician. Swallow whole with water.",
+    "warnings": [
+      "Use cautiously in patients with cardiovascular disease or hyperthyroidism.",
+      "Inform physician if shortness of breath does not resolve promptly.",
+      "Not a replacement for preventative asthma controller medication."
+    ],
+    "commonSideEffects": [
+      "Tremor (shaky hands)",
+      "Headache",
+      "Rapid heartbeat (tachycardia)",
+      "Muscle cramps"
+    ],
+    "sourceTitle": "NHS UK Salbutamol / NLEM 2022",
+    "sourceUrl": "https://www.nhs.uk/medicines/salbutamol-inhaler/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Short-acting beta-2 adrenergic agonist."
+  },
+  {
+    "id": "med-nlem-022",
+    "brandName": "Thyronorm",
+    "genericName": "Levothyroxine Sodium",
+    "strength": "50 mcg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Abbott India Ltd",
+    "labelPurpose": "Replacement therapy for hypothyroidism (underactive thyroid gland).",
+    "labelDirections": "Take once daily in the morning on an empty stomach, at least 30 minutes before breakfast.",
+    "warnings": [
+      "Take consistently on an empty stomach with a full glass of water.",
+      "Do not take within 4 hours of calcium, iron, or antacid supplements.",
+      "Requires regular blood testing (TSH) to adjust proper dosage."
+    ],
+    "commonSideEffects": [
+      "Usually none if dose is correct; palpitations or sweating indicate over-replacement"
+    ],
+    "sourceTitle": "NHS UK Levothyroxine Monograph / DailyMed FDA",
+    "sourceUrl": "https://www.nhs.uk/medicines/levothyroxine/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Synthetic thyroid hormone."
+  },
+  {
+    "id": "med-nlem-023",
+    "brandName": "Avil",
+    "genericName": "Pheniramine Maleate",
+    "strength": "25 mg",
+    "dosageForm": "Tablet",
+    "manufacturer": "Sanofi India Ltd",
+    "labelPurpose": "Treatment of allergic conditions such as hay fever, urticaria, and allergic skin reactions.",
+    "labelDirections": "Take as directed by a healthcare professional with water.",
+    "warnings": [
+      "Causes pronounced drowsiness; do not drive or operate machinery.",
+      "Avoid all alcoholic beverages while taking this medication.",
+      "Use with caution in glaucoma and urinary retention."
+    ],
+    "commonSideEffects": [
+      "Marked drowsiness",
+      "Dry mouth",
+      "Blurred vision",
+      "Coordination impairment"
+    ],
+    "sourceTitle": "CDSCO Approved Product Information / NLEM 2022",
+    "sourceUrl": "https://cdsco.gov.in/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "First-generation sedating antihistamine."
+  },
+  {
+    "id": "med-nlem-024",
+    "brandName": "Electral",
+    "genericName": "Oral Rehydration Salts",
+    "strength": "21.8 g",
+    "dosageForm": "Powder",
+    "manufacturer": "FDC Ltd",
+    "labelPurpose": "Restoration of body fluids and electrolytes lost due to dehydration and diarrhea.",
+    "labelDirections": "Dissolve the entire sachet contents in exactly 1 liter of clean drinking water. Drink as directed.",
+    "warnings": [
+      "Dissolve only in water; do not mix in milk, juice, or soup.",
+      "Discard any solution remaining 24 hours after preparation.",
+      "Seek urgent medical attention if dehydration symptoms worsen."
+    ],
+    "commonSideEffects": [
+      "Mild nausea if consumed too rapidly"
+    ],
+    "sourceTitle": "WHO Model List of Essential Medicines / UNICEF ORS Guidelines",
+    "sourceUrl": "https://www.who.int/publications/i/item/WHO-MHP-HPS-EML-2023.02",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Standard WHO low-osmolarity oral rehydration formula."
+  },
+  {
+    "id": "med-nlem-025",
+    "brandName": "Celin",
+    "genericName": "Ascorbic Acid",
+    "strength": "500 mg",
+    "dosageForm": "Chewable Tablet",
+    "manufacturer": "Koye Pharmaceuticals Pvt Ltd",
+    "labelPurpose": "Prevention and treatment of vitamin C deficiency (scurvy) and nutritional supplementation.",
+    "labelDirections": "Chew tablet thoroughly before swallowing. May be taken with or without food.",
+    "warnings": [
+      "Do not exceed the recommended daily allowance without medical advice.",
+      "High doses may cause mild stomach upset or diarrhea.",
+      "Use caution in patients with a history of kidney stones."
+    ],
+    "commonSideEffects": [
+      "Mild stomach cramps",
+      "Diarrhea with excessive doses"
+    ],
+    "sourceTitle": "NHS UK Vitamin C / DailyMed FDA Ascorbic Acid",
+    "sourceUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0397587-5784-4fe1-b3b3-8b301c27806d",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Water-soluble vitamin antioxidant."
+  },
+  {
+    "id": "med-nlem-026",
+    "brandName": "Moxidose CV 625",
+    "genericName": "Amoxycillin and Clavulanic Acid",
+    "strength": "625 mg (Amoxycillin 500 mg + Clavulanic Acid 125 mg)",
+    "dosageForm": "Tablet",
+    "manufacturer": "Warner (India) Pharma Pvt Ltd",
+    "labelPurpose": "Treatment of bacterial infections including respiratory tract, ear, sinus, urinary tract, skin, and soft tissue infections.",
+    "labelDirections": "Take with food to reduce gastrointestinal discomfort. Complete the full course as prescribed by a physician.",
+    "warnings": [
+      "Contraindicated in patients with a history of hypersensitivity to penicillin or cephalosporin class antibiotics.",
+      "Complete the entire prescribed course; stopping early can cause treatment failure and antibiotic resistance.",
+      "Use with caution in patients with a history of hepatic dysfunction or severe renal impairment."
+    ],
+    "commonSideEffects": [
+      "Nausea",
+      "Diarrhea",
+      "Indigestion",
+      "Stomach pain"
+    ],
+    "sourceTitle": "National List of Essential Medicines (NLEM) 2022 / Central Drugs Standard Control Organization (CDSCO)",
+    "sourceUrl": "https://cdsco.gov.in/",
+    "sourceAccessDate": "2026-10-17",
+    "datasetVersion": "1.0",
+    "notes": "Broad-spectrum combination antibiotic containing a beta-lactam antibiotic and a beta-lactamase inhibitor."
+  }
+]
